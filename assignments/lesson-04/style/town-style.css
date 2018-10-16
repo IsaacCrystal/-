@@ -25,10 +25,12 @@ header
       }
     
       .subtitle { 
-
+        vertical-align: middle;
+        display: inline-block;
       }
       .cloud{
-
+        vertical-align: middle;
+        display: inline-block;
       }
 body
   {

@@ -1,4 +1,4 @@
-#title
+header
   {
     text-align: center;
     background-color: blue;
@@ -7,7 +7,7 @@
     padding-inline-start: 2em;
   }
     
-#Subtitle
+body
   {
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;

@@ -1,3 +1,11 @@
-head{
+header{
+    display:center;
     background-color: blue;
 }
+body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  footer{
+      
+  }

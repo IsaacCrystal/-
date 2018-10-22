@@ -1,0 +1,18 @@
+@media only screen and (min-width: 64em) {
+  /* Only CSS rules that need to be changed to meet the layout needs from medium to large/wide go in here */
+  nav button { display:none; } 
+  article p.town-article img { width: 29.333%; }
+  
+}
+main h3 {
+		
+		text-align:center;
+		display: inline-grid;
+		border: 2px solid gray;
+			}
+main table {
+	
+	text-align:center;
+		display: inline-grid;
+	background-color: dimgray;
+	

@@ -23,7 +23,7 @@ header, nav, main, footer { /* the comma means apply the following CSS declarati
 				}
 			header img 	{
 				text-align:center;
-		display: center;
+		display: inline-block;
 				padding: 20px;
 						}
 				header .subheading {
@@ -97,10 +97,7 @@ section {
 	
 }
 
-article p.town-article img {  /* This structure refers to img elements that are the posterity of paragraph elements within artcle elements */
-  max-width: 100%; /* fill the page in the small/phone view */
-  height: auto;
-}
+
 
 footer { 
 	background-color: skyblue;
@@ -112,8 +109,3 @@ footer aside {
 	color: black;
 	text-align:center;
 }
-footer>p {
-	
-} /* This structure refers to p elements that are direct children of the footer element */
-
-/* Other Class Selectors */
